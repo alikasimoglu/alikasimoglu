@@ -7,11 +7,11 @@
 <p align='left'> You can view my resume <a href='https://alikasimoglu.com/en ' target=_blank><u>here</u>.</a></p>
 
 ## Technologies & Tools
-![Python Badge](https://img.shields.io/badge/-python-0072b1?style=flat&logo=Python&logoColor=white&labelColor=gray)
+![Python Badge](https://img.shields.io/badge/-Python-0072b1?style=flat&logo=Python&logoColor=white&labelColor=gray)
 ![Python Versions](https://img.shields.io/pypi/pyversions/Django)
 ![Python Addons](https://img.shields.io/badge/-OOP-0072b1?style=flat&logo=python&logoColor=white&labelColor=gray)
 
-![Django Badge](https://img.shields.io/badge/-django-0072b1?style=flat&logo=django&logoColor=white&labelColor=gray)
+![Django Badge](https://img.shields.io/badge/-Django-0072b1?style=flat&logo=django&logoColor=white&labelColor=gray)
 ![Django Versions](https://img.shields.io/pypi/djversions/djangorestframework)
 ![Django Addons](https://img.shields.io/badge/-REST_API-0072b1?style=flat&logo=django&logoColor=white&labelColor=gray)
 
@@ -20,8 +20,8 @@
 ![DB Addons](https://img.shields.io/badge/-MySQL-0072b1?style=flat&logo=MySQL&logoColor=white&labelColor=gray)
 
 ![Frontend](https://img.shields.io/badge/-JavaScript-0072b1?style=flat&logo=JavaScript&logoColor=white&labelColor=gray)
-![Frontend](https://img.shields.io/badge/-css-0072b1?style=flat&logo=css3&logoColor=white&labelColor=gray)
-![Frontend](https://img.shields.io/badge/-bootstrap-0072b1?style=flat&logo=bootstrap&logoColor=white&labelColor=gray)
+![Frontend](https://img.shields.io/badge/-CSS-0072b1?style=flat&logo=css3&logoColor=white&labelColor=gray)
+![Frontend](https://img.shields.io/badge/-Bootstrap-0072b1?style=flat&logo=bootstrap&logoColor=white&labelColor=gray)
 ![Frontend](https://img.shields.io/badge/PWA-0072b1)
 
 ![Tools](https://img.shields.io/badge/-PyCharm-0072b1?style=flat&logo=PyCharm&logoColor=white&labelColor=gray)
