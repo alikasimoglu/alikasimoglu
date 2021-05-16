@@ -1,6 +1,6 @@
 # Hello! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-alikasimoglu-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alikasimoglu/)](https://www.linkedin.com/in/alikasimoglu/)
-[![Skype Badge](https://img.shields.io/badge/-alikasimoglu-00acee?style=flat&logo=skype&logoColor=white&link=/skype:<kasimoglu.ali>?<action>)](/skype:<kasimoglu.ali>?<action>)
+[![Skype Badge](https://img.shields.io/badge/-kasimoglu.ali-00acee?style=flat&logo=skype&logoColor=white&link=#skype:<kasimoglu.ali>?<action>)](#skype:<kasimoglu.ali>?<action>)
 [![Twitter Badge](https://img.shields.io/badge/-alikasimoglu-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/alikasimoglu/)](https://www.twitter.com/alikasimoglu/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-5e60ce?style=flat&link=https://alikasimoglu.com/en/projects)](https://alikasimoglu.com/en/projects) 
 <p align='left'>My name is Ali Kasimoglu and I'am a Python programmer/full-stack web developer. I'am from Turkey, living in Sakarya.</p>
