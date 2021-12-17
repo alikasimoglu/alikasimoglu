@@ -17,7 +17,6 @@
 
 ![DB Addons](https://img.shields.io/badge/-SQLite-0072b1?style=flat&logo=SQLite&logoColor=white&labelColor=gray)
 ![DB Addons](https://img.shields.io/badge/-PostgreSQL-0072b1?style=flat&logo=PostgreSQL&logoColor=white&labelColor=gray)
-![DB Addons](https://img.shields.io/badge/-MySQL-0072b1?style=flat&logo=MySQL&logoColor=white&labelColor=gray)
 
 ![Frontend](https://img.shields.io/badge/-JavaScript-0072b1?style=flat&logo=JavaScript&logoColor=white&labelColor=gray)
 ![Frontend](https://img.shields.io/badge/-CSS-0072b1?style=flat&logo=css3&logoColor=white&labelColor=gray)
