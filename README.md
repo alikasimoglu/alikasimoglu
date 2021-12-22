@@ -22,10 +22,12 @@
 ![Frontend](https://img.shields.io/badge/-Bootstrap-0072b1?style=flat&logo=bootstrap&logoColor=white&labelColor=gray)
 ![Frontend](https://img.shields.io/badge/PWA-0072b1)
 
+![DevOps](https://img.shields.io/badge/-Docker-0072b1?style=flat&logo=docker&logoColor=white&labelColor=gray)
+![DevOps](https://img.shields.io/badge/-DigitalOcean-0072b1?style=flat&logo=DigitalOcean&logoColor=white&labelColor=gray)
+![DevOps](https://img.shields.io/badge/-Linux-0072b1?style=flat&logo=Linux&logoColor=white&labelColor=gray)
+
 ![Tools](https://img.shields.io/badge/-PyCharm-0072b1?style=flat&logo=PyCharm&logoColor=white&labelColor=gray)
 ![Tools](https://img.shields.io/badge/-Visual_Studio_Code-0072b1?style=flat&logo=visual-studio-code&logoColor=white&labelColor=gray)
-![Tools](https://img.shields.io/badge/-DigitalOcean-0072b1?style=flat&logo=DigitalOcean&logoColor=white&labelColor=gray)
-![Tools](https://img.shields.io/badge/-Linux-0072b1?style=flat&logo=Linux&logoColor=white&labelColor=gray)
 ![Tools](https://img.shields.io/badge/-Photoshop-0072b1?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=gray)
 
 
