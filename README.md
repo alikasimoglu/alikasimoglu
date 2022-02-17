@@ -6,7 +6,7 @@
 <p align='left'>My name is Ali Kasimoglu and I'am a Python and Django developer but you can call me out full-stack web developer. I'am from Turkey, living in Sakarya.</p>
 <p align='left'> You can view my CV <a href='https://alikasimoglu.com/static/alikasimoglu_EN.pdf ' target=_blank><u>here</u>.</a></p>
 
-## Technologies & Tools
+## Technologies & Tools 
 ![Python Badge](https://img.shields.io/badge/-Python-0072b1?style=flat&logo=Python&logoColor=white&labelColor=gray)
 ![Python Versions](https://img.shields.io/pypi/pyversions/Django)
 ![Python Addons](https://img.shields.io/badge/-OOP-0072b1?style=flat&logo=python&logoColor=white&labelColor=gray)
